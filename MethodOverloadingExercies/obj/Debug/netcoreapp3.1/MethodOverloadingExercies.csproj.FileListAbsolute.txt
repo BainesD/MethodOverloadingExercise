@@ -1,0 +1,14 @@
+C:\Users\baine\Desktop\repos\csharp27\MethodOverloadingExercies\MethodOverloadingExercies\bin\Debug\netcoreapp3.1\MethodOverloadingExercies.exe
+C:\Users\baine\Desktop\repos\csharp27\MethodOverloadingExercies\MethodOverloadingExercies\bin\Debug\netcoreapp3.1\MethodOverloadingExercies.deps.json
+C:\Users\baine\Desktop\repos\csharp27\MethodOverloadingExercies\MethodOverloadingExercies\bin\Debug\netcoreapp3.1\MethodOverloadingExercies.runtimeconfig.json
+C:\Users\baine\Desktop\repos\csharp27\MethodOverloadingExercies\MethodOverloadingExercies\bin\Debug\netcoreapp3.1\MethodOverloadingExercies.runtimeconfig.dev.json
+C:\Users\baine\Desktop\repos\csharp27\MethodOverloadingExercies\MethodOverloadingExercies\bin\Debug\netcoreapp3.1\MethodOverloadingExercies.dll
+C:\Users\baine\Desktop\repos\csharp27\MethodOverloadingExercies\MethodOverloadingExercies\bin\Debug\netcoreapp3.1\MethodOverloadingExercies.pdb
+C:\Users\baine\Desktop\repos\csharp27\MethodOverloadingExercies\MethodOverloadingExercies\obj\Debug\netcoreapp3.1\MethodOverloadingExercies.csproj.AssemblyReference.cache
+C:\Users\baine\Desktop\repos\csharp27\MethodOverloadingExercies\MethodOverloadingExercies\obj\Debug\netcoreapp3.1\MethodOverloadingExercies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baine\Desktop\repos\csharp27\MethodOverloadingExercies\MethodOverloadingExercies\obj\Debug\netcoreapp3.1\MethodOverloadingExercies.AssemblyInfoInputs.cache
+C:\Users\baine\Desktop\repos\csharp27\MethodOverloadingExercies\MethodOverloadingExercies\obj\Debug\netcoreapp3.1\MethodOverloadingExercies.AssemblyInfo.cs
+C:\Users\baine\Desktop\repos\csharp27\MethodOverloadingExercies\MethodOverloadingExercies\obj\Debug\netcoreapp3.1\MethodOverloadingExercies.csproj.CoreCompileInputs.cache
+C:\Users\baine\Desktop\repos\csharp27\MethodOverloadingExercies\MethodOverloadingExercies\obj\Debug\netcoreapp3.1\MethodOverloadingExercies.dll
+C:\Users\baine\Desktop\repos\csharp27\MethodOverloadingExercies\MethodOverloadingExercies\obj\Debug\netcoreapp3.1\MethodOverloadingExercies.pdb
+C:\Users\baine\Desktop\repos\csharp27\MethodOverloadingExercies\MethodOverloadingExercies\obj\Debug\netcoreapp3.1\MethodOverloadingExercies.genruntimeconfig.cache
